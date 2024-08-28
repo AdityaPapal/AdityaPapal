@@ -1,5 +1,5 @@
 # 💫 Hey, I'm Aditya Papal
-🔭 I’m currently working on the MlOPS Project <br>👯 I’m looking to collaborate on  Data Science related Projects<br>🤝 I’m looking for help with MLOPS Engineer <br>🌱 I’m currently learning Data Science, DSA, Web Development <br>💬 Ask me about Machine Learning Related <be>
+🔭 I’m currently working on the Java Spring Boot Project <br>👯 I’m looking to collaborate on Software Development related Projects<br>🤝 I’m looking for help with MLOPS Engineer and Java Backend <br>🌱 I’m currently learning Data Science, Spring Boot, DSA <br>💬 Ask me about Machine Learning Related <be>
 
 
 
