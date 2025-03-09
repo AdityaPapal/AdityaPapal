@@ -4,7 +4,7 @@
 
 
 # 💻 Tech Stack:
-🔰 Programming Language **|** Python, Java, C/C++. <br>🔰 Technology **|** Machine Learning, Java Backend, MLOPS. <br>🔰 Framework **|** Flask, Spring Boot.<br>🔰 Database **|** Mysql, SQl, JDBC.<br>🔰 Course Work **|** Data Structures & Algorithms, Object Oriented Programming.<br>🔰 Tool Used **|** Docker, GitHub, Postman, Vs-Code, PyCharm, IntelliJ, Jupyter Notebook, ChatGPT
+🔰 Programming Language **|** Python, Java, C/C++. <br>🔰 Technology **|** Machine Learning, MLOPS, Deep Learning, NLP. <br>🔰 Framework **|** Flask.<br>🔰 Database **|** Mysql, SQl.<br>🔰 Course Work **|** Data Structures & Algorithms, Object Oriented Programming.<br>🔰 Tool Used **|** Docker, GitHub, Postman.
 
   
 
